@@ -1,3 +1,3 @@
 # State_Farm_Distracted_Driver_Detection_DL_ITI_Project
 
-![Alt Text](Screenshot 2023-05-31 at 1.05.40 AM.png)
+![Alt Text](https://github.com/muhab99/State_Farm_Distracted_Driver_Detection_DL_ITI_Project/blob/main/Screenshot%202023-05-31%20at%201.05.40%20AM.png)
